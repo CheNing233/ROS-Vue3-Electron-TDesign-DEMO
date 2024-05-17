@@ -38,8 +38,6 @@ npm run electron:build
 
 ## 测试
 
-`example`文件夹是已经构建好的两个包,直接运行即可
-
 默认监听`/xf_iat_result`的topic
 
 ```shell
